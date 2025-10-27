@@ -242,7 +242,7 @@ public class DateFormatSymbols implements Serializable, Cloneable {
      * Unlocalized date-time pattern characters. For example: 'y', 'd', etc.
      * All locales use the same these unlocalized pattern characters.
      */
-    static final String  patternChars = "GyMdkHmsSEDFwWahKzZYuXL";
+    static final String  patternChars = "GyMdkHmsSEDFwWahKzZYuXLB";
 
     static final int PATTERN_ERA                  =  0; // G
     static final int PATTERN_YEAR                 =  1; // y
