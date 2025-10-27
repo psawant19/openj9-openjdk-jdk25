@@ -897,7 +897,7 @@ public class FormatData extends ParallelListResourceBundle {
                     "{1} {0}"                  // date-time pattern
                 }
             },
-            { "DateTimePatternChars", "GyMdkHmsSEDFwWahKzZ" },
+            { "DateTimePatternChars", "GyMdkHmsSEDFwWahKzZB" },
         };
     }
 }
