@@ -590,7 +590,7 @@ public class CLDRConverter {
 
             if (bundle.isRoot()) {
                 // Add DateTimePatternChars because CLDR no longer supports localized patterns.
-                targetMap.put("DateTimePatternChars", "GyMdkHmsSEDFwWahKzZ");
+                targetMap.put("DateTimePatternChars", "GyMdkHmsSEDFwWahKzZB");
             }
 
             // Now the map contains just the entries that need to be in the resources bundles.
